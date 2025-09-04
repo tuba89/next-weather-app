@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "Next Weather App",
   description: "Check the weather in any city",
   icons: {
-    icon: "/favicon.png", // 👈 this is the key line
+    icon: "/favicon.png",
   },
 };
 
